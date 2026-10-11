@@ -19,10 +19,10 @@
 | Name | PRN | GitHub Username |
 |------|-----|-----------------|
 | 1. Veena Nair | 1302250153 | veenanair585 |
-| 2. MEMBER_2_NAME | MEMBER_2_PRN | MEMBER_2_USERNAME |
-| 3. MEMBER_3_NAME | MEMBER_3_PRN | MEMBER_3_USERNAME |
-| 4. MEMBER_4_NAME | MEMBER_4_PRN | MEMBER_4_USERNAME |
-| 5. MEMBER_5_NAME | MEMBER_5_PRN | MEMBER_5_USERNAME |
+| 2. Palak Yadav | 1302250226 | PalakYadav226 |
+| 3. Abhilasha kale | 1302250348 | 1302250348-cyber |
+| 4. Soumi Banerjee | 1302250228 | Soumi007-1 |
+| 5. Shruti Singh | 1302250518 | shrutisingh518 |
 
 ---
 
