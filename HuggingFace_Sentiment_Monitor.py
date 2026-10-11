@@ -1,6 +1,6 @@
-# Name: Aditya Gupta
-# PRN: 1302250484
-# Subject: AI ML 1 - CCA2
+# Name: Soumi Banerjee
+# PRN: 1302250228
+# Subject: AI ML 1 - CCA3
 # Program: Hugging Face Sentiment Monitor (FinTech problem statements)
 
 
