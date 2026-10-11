@@ -1,5 +1,5 @@
-# Name: Veena Nair
-# PRN: 1302250153
+# Name: Palak Yadav
+# PRN: 1302250226
 # Subject: AI ML 1 - CCA2
 # Program: Retrieval Augmented Generation (RAG) - FinTech Help Bot
 
