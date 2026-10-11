@@ -1,5 +1,5 @@
-# Name: <Your Name>
-# PRN: <YourPRN>
+# Name: Aditya Gupta
+# PRN: 1302250484
 # Subject: AI ML 1 - CCA2
 # Program: Hugging Face Sentiment Monitor (FinTech problem statements)
 
