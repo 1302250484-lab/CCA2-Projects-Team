@@ -20,7 +20,7 @@
 |------|-----|-----------------|
 | 1. Veena Nair | 1302250153 | veenanair585 |
 | 2. Palak Yadav | 1302250226 | PalakYadav226 |
-| 3. Abhilasha kale | 1302250348 | 1302250348-cyber |
+| 3. Abhilasha Kale | 1302250348 | 1302250348-cyber |
 | 4. Soumi Banerjee | 1302250228 | Soumi007-1 |
 | 5. Shruti Singh | 1302250518 | shrutisingh518 |
 
