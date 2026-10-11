@@ -28,7 +28,7 @@
 
 ## GitHub Repository URL
 
-https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
+https://github.com/1302250484-lab/CCA2-Projects-Team
 
 ---
 
