@@ -1,5 +1,5 @@
-# Name: Your Full Namw
-# PRN: Your PRN
+# Name: <Your Name>
+# PRN: <YourPRN>
 # Subject: AI ML 1 - CCA2
 # Program: Hugging Face Sentiment Monitor (FinTech problem statements)
 
