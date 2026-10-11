@@ -1,5 +1,5 @@
-# Name: Veena Nair
-# PRN: 1302250153
+# Name: <Your Name>
+# PRN: <Your PRN>
 # Subject: AI ML 1 - CCA2
 # Program: Traditional Programming vs Machine Learning (Loan Approval)
 #
