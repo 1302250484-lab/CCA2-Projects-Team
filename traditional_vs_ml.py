@@ -1,5 +1,5 @@
-# Name: <Your Name>
-# PRN: <Your PRN>
+# Name: Shruti Singh
+# PRN: 1302250518
 # Subject: AI ML 1 - CCA2
 # Program: Traditional Programming vs Machine Learning (Loan Approval)
 #
