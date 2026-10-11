@@ -1,5 +1,5 @@
-# Name: <Your Name>
-# PRN: <Your PRN>
+# Name: Aditya Gupta
+# PRN: 1302250484
 # Subject: AI ML 1 - CCA2
 # Program: Retrieval Augmented Generation (RAG) - FinTech Help Bot
 
