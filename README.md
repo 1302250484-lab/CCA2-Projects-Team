@@ -10,8 +10,8 @@
 
 **Admin:**
 
-- Name: Aditya Gupta
-- PRN: 1302250484
+- Name: Shruti Singh
+- PRN: 1302250518
 - GitHub Username: 1302250484-lab
 
 **Team Members / Collaborators:**
