@@ -10,7 +10,7 @@
 
 **Admin:**
 
-- Name: Aditya Gupta
+- Name: Aditya gupta
 - PRN: 1302250484
 - GitHub Username: 1302250484-lab
 
