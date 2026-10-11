@@ -18,7 +18,7 @@
 
 | Name | PRN | GitHub Username |
 |------|-----|-----------------|
-| 1. Veena Nair | 1302250153 | veenanair585 |
+| 1. MEMBER_1_NAME | MEMBER_1_PRN | MEMBER_1_USERNAME |
 | 2. MEMBER_2_NAME | MEMBER_2_PRN | MEMBER_2_USERNAME |
 | 3. MEMBER_3_NAME | MEMBER_3_PRN | MEMBER_3_USERNAME |
 | 4. MEMBER_4_NAME | MEMBER_4_PRN | MEMBER_4_USERNAME |
